@@ -1,0 +1,5 @@
+distroless-flask-app/
+├── app/
+│   └── main.py
+├── requirements.txt
+└── Dockerfile
